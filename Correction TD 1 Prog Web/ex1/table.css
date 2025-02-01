@@ -1,0 +1,26 @@
+/* Table styling */
+table {
+    width: 100%;
+    border: 2px solid lightblue;
+    border-spacing: 0px;
+}
+
+thead th {
+    background-color: black;
+    color: white;
+   text-align: center;
+   padding: 5px;
+}
+
+tbody td {
+    background-color: lightgreen;
+    text-align: left;
+
+}
+
+
+
+th, td {
+    border: 1px solid black;
+}
+

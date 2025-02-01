@@ -1,0 +1,27 @@
+
+
+.bloc {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+#bloc1 {
+    display: inline-block;
+}
+
+#bloc2 {
+    display: inline-block;
+}
+
+#bloc3 {
+    display: inline-block;
+}
+
+#bloc4 {
+    display: inline-block;
+}
+.A
+{
+    display: block;
+}
